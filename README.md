@@ -23,3 +23,5 @@ Relationships:
     pizzas (1) ↔ (N) order_details
 
     pizza_types (1) ↔ (N) pizzas
+
+![image](https://github.com/user-attachments/assets/0822df1c-d19f-4d55-a132-201e8174f234)
